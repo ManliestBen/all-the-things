@@ -39,9 +39,9 @@ class App extends Component {
         attributes: ["tall", "cool", "fun", "animal", "(David doesn't acually own a giraffe)"], 
       },
       {
-        name: "Rugby",
-        image: "https://i.imgur.com/X4VC4nm.jpg",  
-        attributes: ["scruffy", "happy", "sleepy", "wise"], 
+        name: "Liam",
+        image: "https://i.imgur.com/l2qX34X.jpg",  
+        attributes: ["fluffy", "happy", "sleepy", "dumb"], 
       },
       {
         name: "Poptart®",
